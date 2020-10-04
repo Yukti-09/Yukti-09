@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yukti-09"/> </p>
+
 ![Yukti's github stats](https://github-readme-stats.vercel.app/api?username=Yukti-09&show_icons=true&theme=synthwave)
