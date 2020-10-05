@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Yukti-09/website">
   <br />
-  <img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukti-09&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukti-09&layout=compact" />
 </a>
 
 ![Yukti's github stats](https://github-readme-stats.vercel.app/api?username=Yukti-09&show_icons=true&theme=synthwave)
