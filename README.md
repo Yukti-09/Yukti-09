@@ -21,4 +21,9 @@ Here are some ideas to get you started:
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yukti-09"/> </p>
 
+<a href="https://github.com/Yukti-09/website">
+  <br />
+  <img align="right" img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukti-09&layout=compact" />
+</a>
+
 ![Yukti's github stats](https://github-readme-stats.vercel.app/api?username=Yukti-09&show_icons=true&theme=synthwave)
