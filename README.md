@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+Please feel free to clone projects and raise issues if you think something could be better.
+
 Connect with me [![Linkedin Badge](https://img.shields.io/badge/-yukti09-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yukti09/)](https://www.linkedin.com/in/yukti09/) [![Gmail Badge](https://img.shields.io/badge/-yuktikhosla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuktikhosla@gmail.com)](mailto:yuktikhosla@gmail.com)
 
 
